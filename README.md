@@ -81,6 +81,19 @@ I have some struggle with the powermeter, voltage is ok, but consumation no. If 
 
 I strictly don't know if it's a good or stupid idea. But i deleted in the code my API key, etc etc, just get them from your own HA.
 
+------------------------------------------------fonctions----------------------------------------------
+
+-Startup All relay off 
+
+-relay on = led on
+
+-wifi led blinkin when booting and no wifi
+
+-wifi led solid when all is ok
+
+-Button fuction : 1 click all relay ON
+                  2 click (350ms) all relay off
+
 
 
 
