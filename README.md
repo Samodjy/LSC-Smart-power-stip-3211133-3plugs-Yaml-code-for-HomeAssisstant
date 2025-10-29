@@ -95,6 +95,18 @@ I strictly don't know if it's a good or stupid idea. But i deleted in the code m
                   2 click (350ms) all relay off
 
 
+-----------------------------------------------credit--------------------------------------------------
 
+To all the dudes that have wrote some code that i used, and chatGPT
 
+1/https://forum.hacf.fr/t/tuto-lsc-action-power-plug-methode-pour-les-passer-sous-esphome/55780
+
+Those guys
+2/https://keetsupport.nl/2024/03/20/how-to-flash-lsc-power-plug-with-esphome/
+
+And certainely other guys that i've forget.
+
+Cheers.
+
+Samodjy
 
