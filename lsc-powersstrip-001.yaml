@@ -1,9 +1,9 @@
 substitutions:
   device_name: lsc-powersstrip-001
   friendly_name: LSC Powersstrip 001
-  voltage_divider: '744'
+  voltage_divider: '730'
   current_resistor: '0.001'
-  current_multiply: '0.744'
+  current_multiply: '0.450'
 
 esphome:
   name: ${device_name}
