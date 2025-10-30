@@ -20,7 +20,7 @@ Be smart, dont die.
 You'll need all the process usual to upload a new firmware in the powerstrip.
 Using a TTL to USB following the PinOut from the CBU board:
 
-https://docs.libretiny.eu/boards/cb3s/cb3s.svg
+https://docs.libretiny.eu/boards/cbu/cbu.svg
 
 I followed the nice tuto from jiquintar made for a simple smart plug (essentially the same path):
 
