@@ -76,9 +76,6 @@ Physical button  /  pin 21  /  gpio15
 
 To be sure that i'm in bootmode, i simply "read chip info" befor trying to upload the new firmware.
 
-
-I have some struggle with the powermeter, voltage is ok, but consumation no. If you have any suggest...
-
 I strictly don't know if it's a good or stupid idea. But i deleted in the code my API key, etc etc, just get them from your own HA.
 
 ------------------------------------------------fonctions----------------------------------------------
