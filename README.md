@@ -1,3 +1,9 @@
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ 
+
+ACTUALLY NOT WORKING PROPRELY!!!!!!!!! (made a mistake with the relay 3 pinout, i have to tear it down again to check my mistake)
+
+/!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ 
+
 # LSC-Smart-power-stip-3211133-3plugs-Yaml-code-for-HomeAssisstant
 This code is for the power stip from ACTION. Control individual plugs with Home Assisstant.
 
