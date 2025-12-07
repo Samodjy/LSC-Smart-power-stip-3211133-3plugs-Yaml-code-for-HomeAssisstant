@@ -4,6 +4,8 @@ Relays from those power strip may stay stuck close. I've think that I made a mis
 
 /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ 
 
+edit3 07/12: corrected gpio led 3 (my bad)
+
 # LSC-Smart-power-stip-3211133-3plugs-Yaml-code-for-HomeAssisstant
 This code is for the power stip from ACTION. Control individual plugs with Home Assisstant.
 
@@ -48,7 +50,7 @@ CF (BL0937)  /  pin 1  /  gpio14
 
 WifiLedStat  /  pin 2  /  gpio16
 
-RelayLed3  /  pin 5  /  gpio22
+RelayLed3  /  pin 5  /  gpio23
 
 RelayLed2  /  pin 8  /  gpio8
 
