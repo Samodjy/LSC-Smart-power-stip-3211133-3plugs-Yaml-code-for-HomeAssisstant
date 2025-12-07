@@ -1,6 +1,6 @@
 /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ 
 
-ACTUALLY NOT WORKING PROPRELY!!!!!!!!! (made a mistake with the relay 3 pinout, i have to tear it down again to check my mistake)
+Relays from those power strip may stay stuck close. I've think that I made a mistake with my pin out, but it's only those crappy relay that stayed close (a gentle pimp slap on the power strip may help)
 
 /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ 
 
