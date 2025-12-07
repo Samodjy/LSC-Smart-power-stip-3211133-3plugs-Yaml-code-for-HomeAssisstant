@@ -129,7 +129,7 @@ output:
     inverted: true
 
   - platform: gpio
-    pin: GPIO22
+    pin: GPIO23
     id: led_r3_out
     inverted: true
 
